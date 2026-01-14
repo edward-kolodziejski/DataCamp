@@ -1,7 +1,7 @@
 # DataCamp
-My notebooks from accomplished projects on DataCamp:
+Notebooks from accomplished projects on DataCamp:
 
-1. Generating Keywords for Google Ads
-2. Exploring the Evolution of Linux
+1. Analyzing Student's Mental Health (SQL)
+2. Analyzing Industry Carbon Emissions (SQL)
 
 :tada: :tada: :tada:
